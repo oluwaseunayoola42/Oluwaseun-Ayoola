@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Business+Analyst+%7C+Data+Analyst;Turning+Data+into+Decisions;SQL+%7C+Power+BI+%7C+Excel+%7C+Python+%7C+Tableau)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oluwaseun-ayoola042)
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:oluwaseunayoola42@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge&logo=sap&logoColor=black)](https://YOUR-PORTFOLIO-LINK)
 
 </div>
