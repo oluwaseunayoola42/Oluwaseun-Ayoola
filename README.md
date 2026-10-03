@@ -49,4 +49,4 @@ Excel dashboard on how AI may affect jobs from 2026 to 2030: automation risk by 
 
 ## 📫 Let's Connect
 
-Let's talk data. Find me on [LinkedIn](https://www.linkedin.com/in/oluwaseun-ayoola042) or at YOUR_EMAIL@example.com.
+Let's talk data. Find me on [LinkedIn](https://www.linkedin.com/in/oluwaseun-ayoola042) or at oluwaseunayoola42@gmail.com.
